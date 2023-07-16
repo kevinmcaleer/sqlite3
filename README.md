@@ -7,4 +7,5 @@
 - [joining tables](/demo05_joining.py)
 - [deleting data](/demo06_deleting.py)
 - [dropping tables](/demo07_dropping.py)
-- [Web UI](/demo08_flask.py)
+- [altering tables](/demo08_alter.py)
+- [Web UI](/demo09_flask.py)
